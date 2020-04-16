@@ -6,7 +6,7 @@
 //=============================================================
 
 //IF NO DOCUMENTS ARE OPEN, ALERT AND EXIT SCRIPT EXECUTION
-if (app.documents.length == 0 || app.documents[0].visible = false) {
+if (app.documents.length == 0 || app.documents[0].visible == false) {
     alert("You must run this script with a document open." , "No document open" , true);
     exit();
     }
