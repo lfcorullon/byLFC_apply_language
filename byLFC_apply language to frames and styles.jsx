@@ -1,4 +1,5 @@
-﻿//=============================================================
+//DESCRIPTION: Apply languages to frames and styles
+//=============================================================
 //  Script by Luis Felipe Corullón
 //  Contato: lf@corullon.com.br
 //  Site: http://lf.corullon.com.br
